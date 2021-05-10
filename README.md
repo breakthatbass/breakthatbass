@@ -19,5 +19,9 @@ C, Python, Java, Bash, Vim, VS Code, Git, debugging, profiling.
 B.A History  
 Graduated spring 2016
 
+### Links:
+[LinkedIn](https://www.linkedin.com/in/taylorgamache/)  
+Email: gamache.taylor@gmail.com  
 
+#
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breakthatbass&exclude_repo=cs50,breakthatbass.github.io&layout=compact)
