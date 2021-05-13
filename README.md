@@ -4,10 +4,10 @@
 Im a self-taught software engineer very interested in topics like file and string parsing, algorithms, and various systems programming concepts. I mainly use C as a programming language but I use Bash and Python for scripting and automating things too. And lately, I’ve also been using some Java.  
 <br>
 <br>
-For the last decade or so, I’ve been working as a carpenter (as well as working for the Manchester School District at one point). As a carpenter, I mainly did full home remodels and house flips with a partner. After a while I realized it wasn’t a great fit for me long term, I decided to get into programming since I’ve always been interested in computers and taking them apart. Surprisingly, the problem solving aspect of programming isn’t all that different from carpentry.  
+For the last decade or so, I’ve been working as a carpenter (as well as working for the Manchester School District at one point). As a carpenter, I mainly did full home remodels and house flips with a partner. After a while I realized it wasn’t a great fit for me long term, so I decided to get into programming since I’ve always been interested in computers and taking them apart. Surprisingly, the problem solving aspect of programming isn’t all that different from carpentry.  
 <br>
 <br>
-I first started by signing up for a month long course that covered basics in JavaScript. I didn't really fall in love with programming until I got away from web development and was introduced to C in cs50. That really hooked me. I continued learning by waking up early to code a couple hours before work. Eventually, I needed to go all in. Now I mainly spend my days programming and picking up a bit of carpentry work on the side occasionally.  
+I first started by signing up for a month long course that covered basics in JavaScript. I didn't really fall in love with programming until I got away from web development and was introduced to C in the cs50 course. I continued learning by waking up early to code for a couple hours before work. Eventually, I realized I needed to go all in. Now I spend my days programming and picking up a bit of carpentry work on the side occasionally.  
 <br>
 <br>
 My goal is to find a job as an entry level software engineer where I can work with a team, learn from them, solve interesting problems, and provide some value to the team and company. Ideally, the job would be more on the side of systems programming since that’s where my interest lies and most of my experience is but I’m open to anything. 
@@ -17,19 +17,19 @@ My goal is to find a job as an entry level software engineer where I can work wi
 <summary>CS Education</summary>
 
 - **First Step Coding** - [website](https://www.firststepcoding.com)   
-Course  
-April 2017, Cambridge, MA
-    - Intro to programming course using JavaScript
+April 2017, Course in Cambridge, MA
+    - Intro to programming course using JavaScript.
     - Covered basic fundamentals such as data types, arrays, loops, functions, etc...
+    - Also touched on HTML and CSS.
 
 - **Harvard's CS50** - [repo](https://github.com/breakthatbass/cs50) / [website](https://cs50.harvard.edu/college/2019/fall/)  
-Winter 2019/2020, Online
-    - Free online intro to computer science course
+Winter 2019/2020, Online Course
+    - Free online intro to computer science course.
     - Covers basics of C, arrays, algorithms, data structures, Python, SQL, and web programming.
 
 - **C Programming Language** (k&r) - [repo](https://github.com/breakthatbass/c_programming_language) / [wiki](https://en.wikipedia.org/wiki/The_C_Programming_Language)  
 Spring/Summer 2020, Textbook
-    - Classic book that covers the entirety of the C lannguage by Brian Kernighan and Dennis Ritchie
+    - Classic book that covers the entirety of the C lannguage by Brian Kernighan and Dennis Ritchie.
     - Goes into detail on some commonly used data strcutures and algorithms as well as low-level programming concepts such as pointers, memory, and system calls.
 
 - **Operating Systems: Thee Easy Pieces** - [repo](https://github.com/breakthatbass/OStep) / [website](https://pages.cs.wisc.edu/~remzi/OSTEP/)  
@@ -37,6 +37,7 @@ Winter 2020/2021, Textbook
     - Authored by Remzi Arpaci-Dusseau of University of Wisconsin.
     - Covers many OS topics like how an OS schedules a CPU, manages memory,and stores files persistently.
     - Also gets deep into C code on common systems programming concepts such as threads & locks, forking processes, pipes, memory management, and much more.
+    - Really fun book 👍.
 
 - **Algorithms** - [repo](https://github.com/breakthatbass/algorithms) / [website](https://algs4.cs.princeton.edu/home/)  
 Spring/Summer 2021, Textbook
