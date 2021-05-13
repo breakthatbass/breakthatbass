@@ -73,11 +73,33 @@ Graduated spring 2016
 
 </details>
 
+<details>
+<summary>Stats</summary>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=breakthatbass&hide&theme=nord)
+
+</details>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/taylorgamache/" target="_blank" alt="LinkedIn">
+    <img src="assets/linkedin.png" style="width:3rem; padding:2rem">
+    </a>
+    <a href="https://www.linkedin.com/in/taylorgamache/" target="_blank" alt="LinkedIn">
+    <img src="assets/email.png" style="width:3rem; padding:2rem">
+    </a>
+    <a href="https://www.linkedin.com/in/taylorgamache/" target="_blank" alt="LinkedIn">
+    <img src="assets/instagram.png" style="width:3rem; padding:2rem">
+    </a>
+</p>
+
+
+<!--
 ### **Contact:**
 **LinkedIn:** https://www.linkedin.com/in/taylorgamache/  
-**Email:** gamache.taylor@gmail.com
+**Email:** gamache.taylor@gmail.com  
+**instagram:** https://www.instagram.com/breakthatbass/
 
 #
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breakthatbass&exclude_repo=cs50,breakthatbass.github.io&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breakthatbass&exclude_repo=cs50,breakthatbass.github.io&theme=nord&layout=compact)
 -->
+
