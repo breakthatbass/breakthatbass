@@ -81,15 +81,19 @@ Graduated spring 2016
 </details>
 
 <!--<p align="center">-->
+
 <a href="https://www.linkedin.com/in/taylorgamache/" target="_blank" alt="LinkedIn">
-<img src="assets/linkedin.png" style="width:30px; padding:15px">
+<img src="assets/linkedin.png" style="width:30px; height:30px; padding:15px">
 </a>
+
 <a href="https://www.linkedin.com/in/taylorgamache/" target="_blank" alt="LinkedIn">
-<img src="assets/email.png" style="width:30px; padding:15px">
+<img src="assets/email.png" style="width:30px; height:30px; padding:15px">
 </a>
+
 <a href="https://www.linkedin.com/in/taylorgamache/" target="_blank" alt="LinkedIn">
-<img src="assets/instagram.png" style="width:30px; padding:15px">
+<img src="assets/instagram.png" style="width:30px; height:30px; padding:15px">
 </a>
+
 <!--</p>-->
 
 
