@@ -95,9 +95,9 @@ Graduated spring 2016
 <details>
 <summary>Contact/Links</summary>
 
-**LinkedIn:** https://www.linkedin.com/in/taylorgamache  
-**Email:** gamache.taylor@gmail.com  
-**Instagram**: https://www.instagram.com/breakthatbass
+🦨 **LinkedIn:** https://www.linkedin.com/in/taylorgamache  
+📩 **Email:** gamache.taylor@gmail.com  
+📷 **Instagram**: https://www.instagram.com/breakthatbass
 
 </details>
 
