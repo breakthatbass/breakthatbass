@@ -87,7 +87,7 @@ Graduated spring 2016
 </a>
 
 <a href="https://www.linkedin.com/in/taylorgamache/" target="_blank" alt="LinkedIn">
-<img src="assets/email.png" style="width:30px; height:30px; padding:15px">
+<img src="assets/email.png" width="30px" height="30px">
 </a>
 
 <a href="https://www.linkedin.com/in/taylorgamache/" target="_blank" alt="LinkedIn">
