@@ -76,22 +76,11 @@ Graduated spring 2016
 <details>
 <summary>Stats</summary>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=breakthatbass&hide&theme=nord)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=breakthatbass)
 
 </details>
 
-<!--
-<br>
-<a href="https://www.linkedin.com/in/taylorgamache/" target="_blank" alt="LinkedIn">
-<img src="assets/linkedin.png" width="30px" height="30px">
-</a>
-<a href="mailto: gamache.taylor@gmail.com" alt="Email">
-<img src="assets/email.png" width="30px" height="30px">
-</a>
-<a href="https://www.instagram.com/breakthatbass/" target="_blank" alt="Instagram">
-<img src="assets/instagram.png" width="30px" height="30px">
-</a>
--->
+
 <details>
 <summary>Contact/Links</summary>
 
@@ -101,13 +90,4 @@ Graduated spring 2016
 
 </details>
 
-<!--
-### **Contact:**
-**LinkedIn:** https://www.linkedin.com/in/taylorgamache/  
-**Email:** gamache.taylor@gmail.com  
-**instagram:** https://www.instagram.com/breakthatbass/
-
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breakthatbass&exclude_repo=cs50,breakthatbass.github.io&theme=nord&layout=compact)
--->
 
