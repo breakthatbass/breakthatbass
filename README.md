@@ -64,8 +64,8 @@ Look below for pinned projects.
 - Communicate with customers and other contractors about solutions and plans.
 
 #### **Paraprofessional - Manchester Memorial High School<br>2016-2017 school year**  
-- Aid teachers & multiple students achieve IEP goals in the special education department.
-- Tutor in math.
+- Aid teachers & multiple students in achieving IEP goals in the special education department.
+- Tutor in Algebra.
 
 ### **Education:**
 **Southern New Hampshire University**  
