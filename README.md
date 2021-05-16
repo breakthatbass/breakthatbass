@@ -55,7 +55,19 @@ Spring/Summer 2021, Textbook
 C, Python, Java, Bash, Vim, VS Code, Git, debugging, profiling.
 
 ### **Projects/Work:**
-Look below for pinned projects.
+[**Conway**](https://github.com/breakthatbass/conway)  
+- Visualization program of Conway's [game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) celluar automation algorithm in C.  
+- Also wrote a decompression algorithm to read RLE pattern files into the grid.  
+
+[**xmas**](https://github.com/breakthatbass/xmas)  
+- Download [Advent of Code](https://adventofcode.com) puzzle directions, inputs, and submit answers in the terminal.  
+- Handles HTTP requests with the libcurl C library.  
+- Minimizes server requests by storing data in a local cache.  
+
+[**Minish**](https://github.com/breakthatbass/minish)  
+- A minimal UNIX shell
+- Handles multiple pipes and redirection
+
 
 ### **Work Experience:**
 #### **Contractor (carpentry) - self-employed<br>2012 - current**
