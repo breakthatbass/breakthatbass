@@ -1,7 +1,7 @@
 
 <details>
 <summary>About Me</summary>
-Im a self-taught software engineer very interested in topics like file and string parsing, algorithms, and various systems programming concepts. I mainly use C as a programming language but I use Bash and Python for scripting and automating things too. And lately, I’ve also been using some Java.  
+Im a self-taught software engineer focused in systems programming and embedded devices.
 <br>
 <br>
 For the last decade or so, I’ve been working as a carpenter (as well as working for the Manchester School District at one point). As a carpenter, I mainly did full home remodels and house flips with a partner. After a while I realized it wasn’t a great fit for me long term, so I decided to get into programming since I’ve always been interested in computers and taking them apart. Surprisingly, the problem solving aspect of programming isn’t all that different from carpentry.  
@@ -10,9 +10,10 @@ For the last decade or so, I’ve been working as a carpenter (as well as workin
 I first started by signing up for a month long course that covered basics in JavaScript. I didn't really fall in love with programming until I got away from web development and was introduced to C in the cs50 course. I continued learning by waking up early to code for a couple hours before work. Eventually, I realized I needed to go all in. Now I spend my days programming and picking up a bit of carpentry work on the side occasionally.  
 <br>
 <br>
-My goal is to find a job as an entry level software engineer where I can work with a team, learn from them, solve interesting problems, and provide some value to the team and company. Ideally, the job would be more on the side of systems programming since that’s where my interest lies and most of my experience is but I’m open to anything. 
+My goal is to find a job as an entry level software engineer where I can work with a team, learn from them, solve interesting problems, and provide some value to the team and company.
 </details>
 
+<!--
 <details>
 <summary>CS Education</summary>
 
@@ -47,7 +48,7 @@ Spring/Summer 2021, Textbook
 
 
 </details>
-
+-->
 <details>
 <summary>Resume</summary>
 
@@ -55,6 +56,11 @@ Spring/Summer 2021, Textbook
 C, Python, Java, Bash, Vim, VS Code, Git, debugging, profiling.
 
 ### **Projects/Work:**
+
+[**Embedded System - Shape the World**](https://github.com/breakthatbass/embedded-stw)
+- My work from the [EdX online course](https://learning.edx.org/course/course-v1:UTAustinX+UT.6.10x+3T2019/home).
+- Various pieces of firmware for the TM4C123 ARM Cortex microcontroller
+
 [**Conway**](https://github.com/breakthatbass/conway)  
 - Visualization program of Conway's [game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) celluar automation algorithm in C.  
 - Also wrote a decompression algorithm to read RLE pattern files into the grid.  
@@ -103,7 +109,9 @@ Graduated spring 2016
 **Contact/Links:**  
 🎩 **LinkedIn:** https://www.linkedin.com/in/taylorgamache  
 📩 **Email:** gamache.taylor@gmail.com  
+<!--
 📷 **Instagram**: https://www.instagram.com/breakthatbass
+-->
 <!--
 </details>
 -->
