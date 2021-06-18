@@ -62,7 +62,7 @@ C, Python, Java, Bash, Vim, VS Code, Git, debugging, profiling.
 - Various pieces of firmware for the TM4C123 ARM Cortex microcontroller
 
 [**Conway**](https://github.com/breakthatbass/conway)  
-- Visualization program of Conway's [game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) celluar automation algorithm in C.  
+- Visualization program of Conway's [game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) cellular automation algorithm in C.  
 - Also wrote a decompression algorithm to read RLE pattern files into the grid.  
 
 [**xmas**](https://github.com/breakthatbass/xmas)  
