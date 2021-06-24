@@ -1,4 +1,12 @@
 
+**Currently working on:**  
+- [Embedded Systems - Shape the World EdX course](https://github.com/breakthatbass/embedded-stw)
+- [Algorithms Fourth Edition Textbook](https://github.com/breakthatbass/algorithms)
+- [Advent of Code 2020](https://github.com/breakthatbass/advent_of_code2020)
+
+[Download Resume](gamache_resume.pdf)
+
+<!--
 <details>
 <summary>About Me</summary>
 Im a self-taught software engineer focused in systems programming and embedded devices.
@@ -13,42 +21,6 @@ I first started by signing up for a month long course that covered basics in Jav
 My goal is to find a job as an entry level software engineer where I can work with a team, learn from them, solve interesting problems, and provide some value to the team and company.
 </details>
 
-<!--
-<details>
-<summary>CS Education</summary>
-
-- **First Step Coding** - [website](https://www.firststepcoding.com)   
-April 2017, Course in Cambridge, MA
-    - Intro to programming course using JavaScript.
-    - Covered basic fundamentals such as data types, arrays, loops, functions, etc...
-    - Also touched on HTML and CSS.
-
-- **Harvard's CS50** - [repo](https://github.com/breakthatbass/cs50) / [website](https://cs50.harvard.edu/college/2019/fall/)  
-Winter 2019/2020, Online Course
-    - Free online intro to computer science course.
-    - Covers basics of C, arrays, algorithms, data structures, Python, SQL, and web programming.
-
-- **C Programming Language** (k&r) - [repo](https://github.com/breakthatbass/c_programming_language) / [wiki](https://en.wikipedia.org/wiki/The_C_Programming_Language)  
-Spring/Summer 2020, Textbook
-    - Classic book that covers the entirety of the C lannguage by Brian Kernighan and Dennis Ritchie.
-    - Goes into detail on some commonly used data strcutures and algorithms as well as low-level programming concepts such as pointers, memory, and system calls.
-
-- **Operating Systems: Thee Easy Pieces** - [repo](https://github.com/breakthatbass/OStep) / [website](https://pages.cs.wisc.edu/~remzi/OSTEP/)  
-Winter 2020/2021, Textbook
-    - Authored by Remzi Arpaci-Dusseau of University of Wisconsin.
-    - Covers many OS topics like how an OS schedules a CPU, manages memory,and stores files persistently.
-    - Also gets deep into C code on common systems programming concepts such as threads & locks, forking processes, pipes, memory management, and much more.
-    - Really fun book 👍.
-
-- **Algorithms** - [repo](https://github.com/breakthatbass/algorithms) / [website](https://algs4.cs.princeton.edu/home/)  
-Spring/Summer 2021, Textbook
-    - Authored by Robert Sedgewick of Princeton University
-    - Covers data structures, sorting and searching algorithms, graphs, string processing algorithms, as well as scientific analysis of algorithms.
-    - *In progress...*
-
-
-</details>
--->
 <details>
 <summary>Resume</summary>
 
@@ -89,30 +61,5 @@ C, Python, Java, Bash, Vim, VS Code, Git, debugging, profiling.
 **Southern New Hampshire University**  
 B.A History  
 Graduated spring 2016
-
-</details>
-<br>
-
-<!-- comment out stats for now. probably don't need it
-<details>
-<summary>Stats</summary>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=breakthatbass)
-
 </details>
 -->
-
-<!--
-<details>
-<summary>Contact/Links</summary>
--->
-**Contact/Links:**  
-🎩 **LinkedIn:** https://www.linkedin.com/in/taylorgamache  
-📩 **Email:** gamache.taylor@gmail.com  
-<!--
-📷 **Instagram**: https://www.instagram.com/breakthatbass
--->
-<!--
-</details>
--->
-
