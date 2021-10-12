@@ -1,3 +1,4 @@
+<!--
 [Resume](gamache_resume.pdf)
 
 **Currently working on:**  
@@ -8,3 +9,4 @@
 #
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breakthatbass&exclude_repo=cs50,embedded-stw,breakthatbass.github.io,tm4c-template&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
