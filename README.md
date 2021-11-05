@@ -11,7 +11,7 @@ My name is Taylor and I'm a software engineer living in southern NH. I'm interes
 - [jvm-algs4](https://github.com/breakthatbass/jvm-algs4) - Automate the compiling and running of programs linked with the algs4 Java lib for use with the Algorithms textbook
 - [notes](https://github.com/breakthatbass/notes.py) - my personal man pages for things i regularly forget
 
-### 🔮 Projects
+#### 🔮 Other projects
 - [conway](https://github.com/breakthatbass/conway) - conway's game of life algorithm in C with visualization and RLE file decompression  
 - [xmas](https://github.com/breakthatbass/xmas) -  🎅🏻 download inputs and submit answers to Advent of Code puzzles in your terminal
 - [c-libs](https://github.com/breakthatbass/c-libs) - a collection of C libraries I've made and maintained over time
