@@ -60,7 +60,9 @@ drwxr-xr-x  2 taylorgamache  staff   64 Apr  6 13:12 .
 drwxr-xr-x  6 taylorgamache  staff  192 Apr  6 13:35 ..
 ```
 
-This is showing you all the files you have in projects. Namely there are two of them: `.` and `..`. These mean “this directory” and “parent directory”, respectively. (You know how folders can be inside other folders? The outer folder is called the “parent” folder, which is what the parent directory is.
+This is showing you all the files you have in projects. Namely there are two of them: `.` and `..`. All the way in the right most column. These mean “this directory” and “parent directory”, respectively. (You know how folders can be inside other folders? The outer folder is called the “parent” folder, which is what the parent directory is.
+
+The other stuff here is just more info on the files themselves. Things like permission settings, size in bytes, date and time created, etc. It's useful to see sometimes, but not really important right now. The goal was just to show how to use multiple flags with a command.
 
 So if you type `cd ..`, you'll end up in the outer older, or parent directory.
 
@@ -98,6 +100,10 @@ Below are really al the most important commands that you'll use right now.
     ```
 
 - `mkdir` - Creates a new directory. Requires one argument. Example: `mkdir dir_name` will create a directory called `dir_name`
+
+- `man` - Short for "manual". The `man` command gives you a manual for any command you want info on. It's really helpful sometimes but the man pages are a bit overwhelming to a beginner. To use it you provide the name of a command as an argument.
+
+    Try `man ls` to see the manual page for the `ls` command. You'll see explanations for all the flags there. Navigate the page with your arrow keys and when you're done, exit with the q key.
 
 ### Creating a Python Program
 To start, you're going to want to create a directory where you keep your programs. I made a directory called `projects` (like the above example) and it's where I hold all my code. But you can create any file in any directory.
