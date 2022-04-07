@@ -66,12 +66,6 @@ So if you type `cd ..`, you'll end up in the outer older, or parent directory.
 
 That should be enough for you to understand how commands work. You can probably find what you need online from here. I'll add a small cheatsheet below of all the commands you need to worry about right now.
 
-**You're using the ZSH shell**  
-
-
-**Scripts and Shell Scripts**  
-This isn't something you'll really be doing right now, but it's good to know what it is. 
-
 ### Command Cheat Sheet
 
 Below are really al the most important commands that you'll use right now. 
@@ -102,6 +96,8 @@ Below are really al the most important commands that you'll use right now.
     ```
     cat myfile.txt
     ```
+
+- `mkdir` - Creates a new directory. Requires one argument. Example: `mkdir dir_name` will create a directory called `dir_name`
 
 ### Creating a Python Program
 To start, you're going to want to create a directory where you keep your programs. I made a directory called `projects` (like the above example) and it's where I hold all my code. But you can create any file in any directory.
