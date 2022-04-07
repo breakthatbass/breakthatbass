@@ -98,7 +98,7 @@ Below are really al the most important commands that you'll use right now.
 
     rm -rf directory_name
 
-- `cat` - Prints a file in the terminal. Requires a file as an argument.
+- `cat` - Prints the contents of a file in the terminal. Requires a file as an argument.
     ```
     cat myfile.txt
     ```
@@ -144,6 +144,8 @@ hello
 ```
 
 It doesn't really do anything but that's how you create and run a python file. Hopefull you can use your Python cheat sheet to learn more about what to do. But as I have time, I'll add more to this document.
+
+Before you move on, try using the `cat` command here. Run `cat hello.py`. It will print out the contents of the Python file you just made to the terminal.
 
 ### Homebrew
 [Homebrew](https://brew.sh) is great and it will be the main way you install other command line tools.
