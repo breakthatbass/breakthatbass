@@ -98,32 +98,43 @@ Below are really al the most important commands that you'll use right now.
 
     rm -rf directory_name
 
+- `cat` - Prints a file in the terminal. Requires a file as an argument.
+    ```
+    cat myfile.txt
+    ```
+
 ### Creating a Python Program
-To start, you're going to want to create a directory where you keep your programs. I made a directory called `projects` (like the above example) and it's where I hold all my code.
+To start, you're going to want to create a directory where you keep your programs. I made a directory called `projects` (like the above example) and it's where I hold all my code. But you can create any file in any directory.
 
 If you still have projects directory from before, `cd` into it. Remember, it's in your home directory, if you're not there you can run the `cd` command by itself and it will bring you there.
 
-when you're in it, your prompt should have `~/projects` in it. Now you can create a file with `touch`.
+Also, a side note about file paths: you can use a full file path as an argument. So if you're in some far away directory, no matter where you are, you can get to the projects directory with `cd ~/projects`. The `~/projects` is the full file path.
 
+When you're in it, your prompt should have `~/projects` in it. Now you can create a file with `touch`. Let's create a Python file. All that means is using the `.py` extension at the end of the file.
+
+Run this command:
 ```
 touch hello.py
 ```
-A Python file has been created! Now to open it in VS Code, you can open it the normal way, and open a workspace and find the projects directory and it will be there on the side. Another thing you can do is run this command:
+A Python file has been created! Now to open it in VS Code, you can open Vs Code the normal way, and open a workspace and find the projects directory and it will be there on the side. Another thing you can do is run this command:
 ```
 open ~/projects/ -a 'visual studio code'
 ```
 And it will make the projects directory a workspace.
+
+To open a workspace from in VS Code, click the file explorer icon at the top left and click the "Add Workspace" button.
+
 Now that vs code is open, you can continue using `touch` to create files, or you can click the new file icon at the top left.
 
-Open the hello.py file.
+Open the hello.py file by clicking on the file name.
 
 Now you can type code!
 
-To start, just add this:
+To start, just add this to `hello.py`:
 ```
 print("hello")
 ```
-That's the entire file. Now go back to your terminal and type this command:
+That's all we want in the entire file for now. Now go back to your terminal and type this command:
 ```
 python3 hello.py
 ```
@@ -131,4 +142,41 @@ And it will return this:
 ```
 hello
 ```
-Doesn't really do anything but that's how you create and run a python file. Hopefull you can use your Python cheat sheet to learn more about what to do. But as I have time, I'll add more to this document.
+
+It doesn't really do anything but that's how you create and run a python file. Hopefull you can use your Python cheat sheet to learn more about what to do. But as I have time, I'll add more to this document.
+
+### Homebrew
+[Homebrew](https://brew.sh) is great and it will be the main way you install other command line tools.
+
+To install it, run this command"
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+It looks like a bunch of nonsense but all it says is this: *regardless of what shell is the default shell, use the bash shell to download and run the install script from the homebrew website without saving it.* This is basically trying to get a command that would always work on a brand new computer without anything installed yet.
+
+The command to use homebrew is `brew` and it has a lot of subcommands. The only one you need though is `install`.
+
+To confirm it downloaded and installed correctly you can run:
+```
+brew --version
+```
+Installing something using Homebrew always works like this:
+```
+brew install program_name
+```
+
+Let's use Homebrew to download `git`. It's as simple as:
+```
+brew install git
+```
+Now you have `git` on your computer. You don't need to use it yet but you got to use homebrew. And that's all there is to Homebrew!
+
+One more thing. If you want to uninstall a program you downloaded with Homebrew, you just use the `uninstall` subcommand.
+```
+brew uninstall program_name
+```
+
+### Pip
+
+`pip` works the same exact way but `pip` is used for only python related things. Like homebrew, you use the `install` and `uninstall` subcommands. You won't need `pip` quite yet, but you will soon. It's an easy way to download functions to use in your code without having to write them.
